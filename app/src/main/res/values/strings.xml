@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutoScroller</string>
+    <string name="accessibility_service_description">Auto Scrolling Service</string>
+    <string name="scroll_speed">Scroll Speed (ms) [Duration per scroll]</string>
+    <string name="scroll_distance">Scroll Distance (px) [Range per scroll]</string>
+    <string name="start">Start Scrolling</string>
+    <string name="stop">Stop Scrolling</string>
+</resources>
